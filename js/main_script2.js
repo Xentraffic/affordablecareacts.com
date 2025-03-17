@@ -1,0 +1,149 @@
+const healtLink = [
+    "https://apritrun.com/clickout/21551/312865/?",
+    "https://apritrun.com/clickout/21551/312865/?",
+    "https://apritrun.com/clickout/21551/312865/?",
+    "https://apritrun.com/clickout/21551/312865/?"
+]
+$(document).ready(function () {
+    $(".q1-btn").on("click", function () {
+        // $("#q1").fadeOut(500);
+        // $("#q3").delay(500).fadeIn(500);
+        $("#q1").fadeOut(500);
+        $("#q2").delay(500).fadeIn(500);
+    });
+    $(".q1-btn-bis").on("click", function () {
+        window.location.href = "https://apritrun.com/clickout/21551/312865/?" //healtLink[Math.floor(Math.random() * 3)]
+
+    });
+
+    // $(".q3-btn").on("click", function () {
+    //     $("#q3").fadeOut(500);
+    //     $("#q2").delay(500).fadeIn(500);
+    // });
+
+    $(".q2-btn-no").on("click", function () {
+        waitingInfo("no")
+    });
+
+    $(".q2-btn-yes").on("click", function () {
+        // onMedicaid()
+        waitingInfo("yes")
+    });
+});
+
+function waitingInfo(param) {
+    q2.style.display = "none";
+    loading1.style.display = 'block';
+    loading1.classList.add('fade-in');
+    window.setTimeout(function () {
+        loading1.classList.add('fade-out');
+        window.setTimeout(function () {
+            loading1.style.display = 'none';
+            loading2.style.display = 'block';
+            loading2.classList.add('fade-in');
+            window.setTimeout(function () {
+                loading2.classList.add('fade-out');
+                window.setTimeout(function () {
+                    loading2.style.display = 'none';
+                    loading3.style.display =
+                        'block';
+                    loading3.classList.add(
+                        'fade-in');
+                    window.setTimeout(function () {
+                        loading3.classList
+                            .add(
+                                'fade-out');
+                        window.setTimeout(
+                            function () {
+                                loading3
+                                    .style
+                                    .display =
+                                    'none';
+                                qualify
+                                    .style
+                                    .display =
+                                    'block';
+                                qualify
+                                    .classList
+                                    .add(
+                                        'fade-in'
+                                    );
+                                if (param === "yes") {
+                                    $('#tab_call').css({ display: "none" })
+                                    $('#click_to_call_btn').attr('href', 'https://apritrun.com/clickout/21551/312865/?')
+                                    $('#click_to_call_btn').text('Sign in now!')
+                                }
+                                if (param === "no") {
+                                    $('#tab_call').css({ display: "block" })
+                                    $('#click_to_call_btn').attr('href', 'tel:+18667240351')
+                                    $('#click_to_call_btn').text('+1 (866) 724-0351')
+                                    document.getElementById("click_to_call_btn").onclick = function () {
+                                        fbq("track", "Purchase");
+                                    };
+                                }
+                                countdown();
+                            }, 500);
+                    }, 1700);
+                }, 500);
+            }, 1700);
+        }, 500);
+    }, 1700);
+}
+
+function onMedicaid() {
+    q2.style.display = "none";
+    loading1.style.display = 'block';
+    loading1.classList.add('fade-in');
+    window.setTimeout(function () {
+        loading1.classList.add('fade-out');
+        window.setTimeout(function () {
+            loading1.style.display = 'none';
+            loading2.style.display = 'block';
+            loading2.classList.add('fade-in');
+            window.setTimeout(function () {
+                loading2.classList.add('fade-out');
+                window.setTimeout(function () {
+                    loading2.style.display = 'none';
+                    loading3.style.display =
+                        'block';
+                    loading3.classList.add(
+                        'fade-in');
+                    window.setTimeout(function () {
+                        loading3.classList
+                            .add(
+                                'fade-out');
+                        window.setTimeout(
+                            function () {
+                                cta();
+                                countdown();
+                            }, 500);
+                    }, 1700);
+                }, 500);
+            }, 1700);
+        }, 500);
+    }, 1700);
+}
+
+var interval;
+
+function countdown() {
+    clearInterval(interval);
+    interval = setInterval(function () {
+        var timer = $('#countingItem').html();
+        timer = timer.split(':');
+        var minutes = timer[0];
+        var seconds = timer[1];
+        seconds -= 1;
+        if (minutes < 0) return;
+        else if (seconds < 0 && minutes != 0) {
+            minutes -= 1;
+            seconds = 59;
+        } else if (seconds < 10 && length.seconds != 2) seconds = '0' +
+            seconds;
+        else if (minutes < 1) minutes = '00';
+
+        $('#countingItem').html(minutes + ':' + seconds);
+
+        if (minutes == 0 && seconds == 0) clearInterval(interval);
+    }, 1000);
+}

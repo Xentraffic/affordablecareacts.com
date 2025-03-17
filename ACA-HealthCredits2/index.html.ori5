@@ -1,0 +1,188 @@
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <title>
+    Americans Could Receive $1,400 to Pay For Their Medical Needs
+  </title>
+  <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+  <link rel="stylesheet" href="style.css" />
+  <script src=//b-js.ringba.com/CA59753f37379847698236cf6ac2539021 async></script> 
+  <script>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '659567809631996');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="" /></noscript>
+</head>
+
+<body>
+
+  <div class="container">
+    <h3 class="center header-line">
+      <a>
+        <span>Good News! Low-Income&nbsp;</span> </a>Americans May Qualify for Significant Savings to Help Cover Medical Costs. Check Eligibility Below..
+    </h3>
+    <div class="container">
+      <p>
+        <a>
+          <img src="37d24a3974aa8acf73775b70fbb8eaa0.jpeg" height="auto" />
+        </a>
+      </p>
+      <p>
+        <span class="red">
+          <font color="#ff0000">
+            <b>Take this short questionnaire to see if you qualify</b>
+          </font>
+          <br />
+        </span>
+      </p>
+      <div class="elementor-element elementor-element-196e8bf elementor-widget elementor-widget-html">
+        <div class="elementor-widget-container">
+          <title>Slider Forms</title>
+          <div class="question" id="q1">
+            <h2>What is Your Yearly Income ?</h2>
+            <p>
+              <a class="cta_btn q1-btn">Below $50,000</a>
+            </p>
+            <p>
+              <a class="cta_btn q1-btn">Above $50,000</a>
+            </p>
+          </div>
+          <div class="question" id="q2">
+            <script>
+              // fbq('track', 'Purchase');
+            </script>
+            <h2>Are You On Medicaid, Medicare, VA or Employer Coverage ?</h2>
+            <p>
+              <a class="cta_btn q2-btn">Yes</a>
+            </p>
+            <p>
+              <a class="cta_btn q2-btn">No</a>
+            </p>
+          </div>
+          <div id="loading1" class="loading boxme">
+            Reviewing Your Answers
+          </div>
+          <div id="loading2" class="loading boxme">
+            Matching You With Your State Coverage Options
+          </div>
+          <div id="loading3" class="loading boxme">
+            Confirming Your Eligibility
+          </div>
+          <div id="qualify" class="boxme">
+            <div class="qualifyHeadline">Good News, You May Be Eligible</div>
+            <div class="loadingCopy">
+              For Significant Savings on <br />
+              <font color="#ff0000">
+                <b>Premium Health Tax Credits&nbsp;</b>
+              </font>
+              <br />Call Now to Learn More <br />
+              <span style="font-size: 1.5rem; color: rgb(47, 189, 170);">About Affordable Health Coverage</span>
+            </div>
+            <b>
+              <h2>
+                <strong> Tap to Call &amp; Qualify</strong>
+              </h2>
+              <a href="tel:+18775690491" id="ctabt" class="cta_btn">+18775690491</a>
+              <p style="
+                    text-align: center;
+                    font-size: 18px;
+                    font-weight: bold;
+                  ">
+                Act fast! This offer expires in
+                <strong style="color: #e90e0e;">
+                  <span id="countingItem">02:00</span>
+                </strong>
+              </p>
+            </b>
+          </div>
+          <b></b>
+        </div>
+        <b></b>
+      </div>
+      <b>
+        <br />
+        <br />
+        <br />
+        <hr />
+      </b>
+    </div>
+    <b></b>
+  </div>
+  <b>
+    <br />
+    <footer>
+      <div class="container">
+        <p>
+          Disclaimer: This is a referral source that provides
+          information and access to a helpline to match consumers with
+          companies that may provide certain insurance coverage to them.
+          We do not act as an insurance broker and does not
+          make decisions about insurance coverage that may be available to
+          you. yourhealthcredits doesn’t promise a specific outcome or the
+          results you may achieve by calling the helpline. The helpline is
+          free to call but the services or programs that you pursue may have
+          costs associated with them. Neither yourhealthcredits nor any of the
+          supplemental insurance plans to which you may be connected are
+          endorsed by the U.S. Government or the federal Medicare program.
+        </p>
+        <p>
+          *Certain beneficiaries may qualify for health insurance at as low as
+          $0
+        </p>
+        <p>© 2024 yourhealthcredits</p>
+      </div>
+    </footer>
+    <br />
+    <div class="policy center">
+      © 2023 - <a href="https://google.com/" target="_blank">About Us</a> |
+      <a href="https://google.com/" target="_blank">Privacy Policy</a> |
+      <a href="https://google.com/" target="_blank">Disclosure</a> |
+      <a href="https://google.com/" target="_blank">Contact Us</a>
+    </div>
+  </b>
+  <div class="cta">
+    <div class="button-cta">
+      Call Before 6:30 PM EST&nbsp;&nbsp;
+      <a href="tel:+18775690491" id="callButton">
+        <img width="15" height="15" src="617bc920d256c_phone.png" />
+        +18775690491
+      </a>
+    </div>
+  </div>
+
+  <!-- jQuery CDN -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+  <script type="text/javascript">
+    document.getElementById("ctabt").onclick = function () {
+      fbq("track", "Purchase");
+    };
+  </script>
+  <!-- Custom JS Scriot -->
+  <script src="main_script.js"></script>
+
+  
+ 
+
+</body>
+
+</html>

@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        !function (w, d, t) {
+            w.TiktokAnalyticsObject = t; var ttq = w[t] = w[t] || []; ttq.methods = ["page", "track", "identify", "instances", "debug", "on", "off", "once", "ready", "alias", "group", "enableCookie", "disableCookie"], ttq.setAndDefer = function (t, e) { t[e] = function () { t.push([e].concat(Array.prototype.slice.call(arguments, 0))) } }; for (var i = 0; i < ttq.methods.length; i++)ttq.setAndDefer(ttq, ttq.methods[i]); ttq.instance = function (t) { for (var e = ttq._i[t] || [], n = 0; n < ttq.methods.length; n++)ttq.setAndDefer(e, ttq.methods[n]); return e }, ttq.load = function (e, n) { var i = "https://analytics.tiktok.com/i18n/pixel/events.js"; ttq._i = ttq._i || {}, ttq._i[e] = [], ttq._i[e]._u = i, ttq._t = ttq._t || {}, ttq._t[e] = +new Date, ttq._o = ttq._o || {}, ttq._o[e] = n || {}; var o = document.createElement("script"); o.type = "text/javascript", o.async = !0, o.src = i + "?sdkid=" + e + "&lib=" + t; var a = document.getElementsByTagName("script")[0]; a.parentNode.insertBefore(o, a) };
+
+            ttq.load('CEQ8MSRC77UAS1JKC8BG');
+            ttq.page();
+        }(window, document, 'ttq');
+    </script>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congress - ACA Enrolled</title>
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <meta http-equiv="delegate-ch"
+        content="sec-ch-ua https://intedure-virsoles.com; sec-ch-ua-mobile https://intedure-virsoles.com; sec-ch-ua-arch https://intedure-virsoles.com; sec-ch-ua-model https://intedure-virsoles.com; sec-ch-ua-platform https://intedure-virsoles.com; sec-ch-ua-platform-version https://intedure-virsoles.com; sec-ch-ua-bitness https://intedure-virsoles.com; sec-ch-ua-full-version-list https://intedure-virsoles.com; sec-ch-ua-full-version https://intedure-virsoles.com">
+    <style>
+        .dtpcnt {
+            opacity: 0;
+        }
+    </style>
+    <script>
+        (function (c, a, f, q, b, m, r, g, h, k, d, n, e, p) {
+            p = "https:" === c.location.protocol ? "secure; " : ""; c[b] || (c[b] = function (a) { c[b].state.callbackQueue.push(a) }, c[b].state = { callbackQueue: [] }, c[b].registerConversion = function (a) { c[b].state.callbackQueue.push(a) }, function () {
+                (k = /[?&]cpid(=([^&#]*)|&|#|$)/.exec(c.location.href)) && k[2] && (d = k[2], n = a.cookie.match(new RegExp("(^| )vl-" + d + "=([^;]+)"))); var b = a.cookie.match(/(^| )vl-cid=([^;]+)/), l; "savedCid" !== r || !b || d && "undefined" !== typeof d || (l = b.pop()); g = a.createElement("script");
+                h = a.scripts[0]; g.src = m + (-1 === m.indexOf("?") ? "?" : "&") + "oref=" + f(a.referrer) + "&ourl=" + f(location[q]) + "&opt=" + f(a.title) + "&vtm=" + (new Date).getTime() + (l ? "&cid=" + l : "") + (n ? "&uw=no" : ""); h.parentNode.insertBefore(g, h); d && (e = new Date, e.setTime(e.getTime() + 864E5), a.cookie = "vl-" + d + "=1; " + p + "samesite=Strict; expires=" + e.toGMTString() + "; path=/")
+            }())
+        })(window, document, encodeURIComponent, "href", "dtpCallback", "https://intedure-virsoles.com/d/.js", "savedCid");
+    </script>
+    <noscript>
+        <link href="https://intedure-virsoles.com/d/.js?noscript=true&ourl=" rel="stylesheet" />
+    </noscript>
+    <script>
+        (function (w, d, s, o, f, js, fjs) { w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) }; js = d.createElement(s), fjs = d.getElementsByTagName(s)[0]; js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs); }(window, document, 'script', 'mcc', 'https://marketcall.com/js/mc-calltracking.js'));
+        mcc('init', { site: 123, serviceBaseUrl: '//www.marketcall.com' });
+        mcc('requestTrackingNumber', { campaign: "248491", selector: [{ type: "dom", value: "a href=\"tel:\"" }], mask: "+x (xxx) xxx-xx-xx", subid: "{clickid}" });
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-982721683"></script>
+    <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'AW-982721683'); </script>
+
+    <!-- Meta/Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '352232589661072');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=352232589661072&ev=PageView&noscript=1" /></noscript>
+
+</head>
+
+<body>
+
+    <div class="elementor elementor-10">
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-72b1dad0 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
+            <div class="elementor-container elementor-column-gap-default">
+                <div
+                    class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-18a62f7b">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div
+                            class="elementor-element elementor-element-20e0034f elementor-widget elementor-widget-image">
+                            <div class="elementor-widget-container">
+                                <img src="Logo-White-prpb2p306pwh4s125ly6nm3ch4uflieluyk4c6s908.png" title="Logo-White"
+                                    alt="Logo-White">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-7eb0cb78 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
+            <div class="elementor-container elementor-column-gap-default">
+                <div
+                    class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-12278a57">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div
+                            class="elementor-element elementor-element-46472103 elementor-widget elementor-widget-heading">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Congress Approves <span
+                                        style="color: red;">$0 Health Insurance</span> that gives Health, Vision &amp;
+                                    Dental Benefits! </h2>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-43788431 elementor-widget elementor-widget-image">
+                            <div class="elementor-widget-container">
+                                <img width="894" height="355" src="ezgif-1-51885182171.jpg"
+                                    class="attachment-large size-large"
+                                    srcset="ezgif-1-51885182171.jpg 894w, ezgif-1-51885182171-300x119.jpg 300w, ezgif-1-51885182171-768x305.jpg 768w"
+                                    sizes="(max-width: 894px) 100vw, 894px">
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-41bb73ef elementor-widget elementor-widget-heading">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">
+                                    <strong>Good News!</strong> Congress approved a new federal program that gives <span
+                                        style="color: red; font-weight: 600;">$0 Health Insurance</span> with <span
+                                        style="color: red; font-weight: 600;">full medical, vision &amp; dental
+                                        coverage</span>!
+                                </h2>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-21d3f055 elementor-widget elementor-widget-heading">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Take this short quiz to check
+                                    your eligibility</h2>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-22bbc18 elementor-widget elementor-widget-html">
+                            <div class="elementor-widget-container">
+                                <div class="question" id="q1">
+                                    <h2>Do you make under $50,000 per year?</h2>
+                                    <p>
+                                        <a class="cta_btn q1-btn">Yes</a>
+                                    </p>
+                                    <p>
+                                        <a class="cta_btn q1-btn-bis">No</a>
+                                    </p>
+                                </div>
+                                <!-- <div class="question" id="q3">
+                                    <h2>Are you at least 25 or older?</h2>
+                                    <p>
+                                        <a class="cta_btn q3-btn">Yes</a>
+                                    </p>
+                                    <p>
+                                        <a class="cta_btn q3-btn">No</a>
+                                    </p>
+                                </div> -->
+                                <div class="question" id="q2">
+                                    <h2>Are you on Medicare or Medicaid?</h2>
+                                    <p>
+                                        <a class="cta_btn q2-btn-yes">Yes</a>
+                                    </p>
+                                    <p>
+                                        <a class="cta_btn q2-btn-no">No</a>
+                                    </p>
+                                </div>
+                                <div id="loading1" class="loading boxme"> Reviewing Your Answers... </div>
+                                <div id="loading2" class="loading boxme"> Matching You with the Best Options... </div>
+                                <div id="loading3" class="loading boxme"> Confirming Eligibility... </div>
+                                <div id="qualify" class="boxme">
+                                    <div class="qualifyHeadline">Congrats, You're Eligible!</div>
+                                    <!-- Event snippet for Website lead conversion page (Google tag) -->
+                                    <script> gtag('event', 'conversion', { 'send_to': 'AW-982721683/WRnDCI37wfAYEJPJzNQD' }); </script>
+                                    <div class="loadingCopy">
+                                        <strong>Last Step:</strong> You must <u>Call Now</u> to get your <strong
+                                            style="color: #ff0000;">$0 Health Insurance Policy</strong>. Get free
+                                        <strong style="color: #2fbdaa;">Medical, Dental &amp; Vision benefits</strong>
+                                        from this Federal Program!
+                                    </div>
+                                    <p style="font-size:18px;">
+                                        <strong>Call Now to claim your $1,400 in Premium Health Credits With $0 Health
+                                            Coverage</strong>
+                                    </p>
+                                    <h2>
+                                        <strong id="tab_call" style="display: none;"> TAP TO CALL</strong>
+                                    </h2>
+                                    <!-- <a href="https://intedure-virsoles.com/37fd44d5-7204-4476-8a87-01f0bd591a27?display={display}&source={source}&lastname={lastname}&email={email}&gender={gender}&phone={phone}&dob={dob}&creative={creative}&clickId={clickId}" class="cta_btn sh-campaign-1564"
+                                        id="click_to_call_btn_yes" style="display: none;">
+                                        Sign up now!
+                                    </a> -->
+                                    <a href="tel:+18772300358" class="cta_btn sh-campaign-1564" id="click_to_call_btn">
+                                        1 (877) 230-0358
+                                    </a>
+                                    <p
+                                        style="text-align: center; font-size:18px; font-weight:bold; line-height: 0.7em; padding-top: 15px;">
+                                        Act quickly! Pre-approval ends in
+                                        <br class="d-none">
+                                        <br class="d-none">
+                                        <br class="d-none">
+                                        <strong style="color: #E90E0E;">
+                                            <span id="countingItem">02:00</span>
+                                        </strong>
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="elementor-element elementor-element-22bbc18 elementor-widget elementor-widget-html">
+                            <div class="elementor-widget-container">
+                                <div class="question" id="q1">
+                                    <h2>Do you make under $50,000 per year?</h2>
+                                    <p>
+                                        <a class="cta_btn q1-btn">Yes</a>
+                                    </p>
+                                    <p>
+                                        <a class="cta_btn q1-btn">No</a>
+                                    </p>
+                                </div>
+                                <div class="question" id="q3">
+                                    <h2>Are you at least 25 or older?</h2>
+                                    <p>
+                                        <a class="cta_btn q3-btn">Yes</a>
+                                    </p>
+                                    <p>
+                                        <a class="cta_btn q3-btn">No</a>
+                                    </p>
+                                </div>
+                                <div class="question" id="q2">
+                                    <h2>Are you on Medicare or Medicaid?</h2>
+                                    <p>
+                                        <a class="cta_btn q2-btn-yes">Yes</a>
+                                    </p>
+                                    <p>
+                                        <a class="cta_btn q2-btn-no">No</a>
+                                    </p>
+                                </div>
+                                <div id="loading1" class="loading boxme"> Reviewing Your Answers... </div>
+                                <div id="loading2" class="loading boxme"> Matching You with the Best Options... </div>
+                                <div id="loading3" class="loading boxme"> Confirming Eligibility... </div>
+                                <div id="qualify" class="boxme">
+                                    <div class="qualifyHeadline">Congrats, You're Eligible!</div>
+                                    <div class="loadingCopy">
+                                        <strong>Last Step:</strong> You must <u>Call Now</u> to get your <strong
+                                            style="color: #ff0000;">$0 Health Insurance Policy</strong>. Get free
+                                        <strong style="color: #2fbdaa;">Medical, Dental &amp; Vision benefits</strong>
+                                        from this Federal Program!
+                                    </div>
+                                    <p style="font-size:18px;">
+                                        <strong>Call us now to get your free policy</strong>
+                                    </p>
+                                    <h2>
+                                        <strong> TAP TO CALL</strong>
+                                    </h2>
+                                    <a href="tel:18772300358" class="cta_btn sh-campaign-1564"
+                                        id="click_to_call_btn">1
+                                        (877) 230-0358</a>
+                                    <p
+                                        style="text-align: center; font-size:18px; font-weight:bold; line-height: 0.7em; padding-top: 15px;">
+                                        Act quickly! Pre-approval ends in <strong style="color: #E90E0E;">
+                                            <span id="countingItem">02:00</span>
+                                        </strong>
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                            </div>
+                        </div> -->
+                        <div
+                            class="elementor-element elementor-element-3a4118ce elementor-widget-divider--view-line elementor-widget elementor-widget-divider">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-divider">
+                                    <span class="elementor-divider-separator"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-69fe641f elementor-section-boxed elementor-section-height-default elementor-section-height-default">
+            <div class="elementor-container elementor-column-gap-default">
+                <div
+                    class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56346344">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div
+                            class="elementor-element elementor-element-591fc242 elementor-widget elementor-widget-heading">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Disclaimer:
+                                    AffordableCareActs.com
+                                    is a referral source that provides information and access to a helpline to match
+                                    consumers with companies that may provide certain insurance coverage to them.
+                                    AffordableCareActs.com does not act as an insurance broker and does not make
+                                    decisions
+                                    about insurance coverage that may be available to you. AffordableCareActs.com
+                                    doesn’t
+                                    promise a specific outcome or the results you may achieve by calling the helpline.
+                                    The helpline is free to call but the services or programs that you pursue may have
+                                    costs associated with them. Neither AffordableCareActs.com nor any of the
+                                    supplemental
+                                    insurance plans to which you may be connected are endorsed by the U.S. Government or
+                                    the federal Medicare program.</h2>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-3ea37e3e elementor-widget elementor-widget-heading">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Our goal is to provide
+                                    exceptional service. One of our agents may reach out to you to discuss your order,
+                                    ask for feedback, and/or see if you need any assistance with your products,
+                                    services, or plans, at the phone number you provided regardless of your do-not-call
+                                    list status. You may opt-out of further contact at any time by simply telling our
+                                    customer service team that you would no longer like to be contacted. In the event
+                                    that our team is unable to reach you by phone, they may send you a text message
+                                    letting you know that we called. Both our text messages and phone calls may be sent
+                                    or connected utilizing automated software. Carrier charges may apply. You may
+                                    opt-out of any future contact via text message by replying anytime with “STOP”.</h2>
+                            </div>
+                        </div>
+
+        </section>
+    </div>
+
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+    <!-- Custom JS Script -->
+    <script src="main_script2.js"></script>
+
+    <!-- CTA -->
+    <script>
+        function cta() {
+            // window.location.href = "https://intedure-virsoles.com/click";
+        }
+    </script>
+
+    <script type="text/javascript">
+        document.getElementById("ctabt").onclick = function () {
+            fbq("track", "Lead");
+        };
+    </script>
+
+</body>
+
+</html>

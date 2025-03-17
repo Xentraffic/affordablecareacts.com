@@ -1,0 +1,171 @@
+<!-- This landing page has been cleaned by The Landers Club ( https://thelanders.club ). If you want to get landers
+ripped-cleaned, coded from scratch or integrated with lead distribution softwares like Lead Prosper and leadspedia,
+visit our site or message us on telegram id sethinitin -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unlock $6,400 in Credits for Americans to Cover Groceries, Gas, and Rent Expenses </title>
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <script src=//b-js.ringba.com/CA5f79c16ba60743ff8cbf957a568e40b7 async></script>
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '352232589661072');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=352232589661072&ev=PageView&noscript=1" /></noscript>
+</head>
+
+<body>
+
+    <div class="title-wrapper">
+        <p class="m-0 title-page">
+            <img src="logo.png" style="filter: brightness(0) invert(1);">
+        </p>
+    </div>
+    <div class="bg-custom">
+        <p class=" content-para"> Unlock $5,200 in Credits for Americans to Cover Groceries, Gas, and Rent Expenses </p>
+        <div class="image-wrapper">
+            <img src="banner.jpg" width="645" height="290" alt="image">
+        </div>
+        <div class="text-wrapper">
+            <h2 class="content-para-3">To Qualify Today:</h2>
+            <ul class="content-para-3 custom-list mb-2">
+                <li>
+                    <strong>✓ ; Must make under $50,000/Year </strong>
+                </li>
+                <li>
+                    <strong>✓ ; Must NOT have Medicaid </strong>
+                </li>
+                <li>
+                    <strong>✓ ; Must be under 65 </strong>
+                </li>
+                <li>
+                    <strong>✓ ; Must be a US citizen </strong>
+                </li>
+            </ul>
+            <h2 class="content-para-3">How Do I Check If I Qualify?</h2>
+            <p class="content-para-3">It's easy to Claim. Follow the steps below.</p>
+            <ul class="content-para-3 custom-list mb-2">
+                <li>
+                    <strong>✓ Step 1:</strong>;Check Eligibility mentioned above
+                </li>
+                <li>
+                    <strong>✓ Step 2:</strong>;Claim Health Care Benefits by confirming answers if you are eligible as
+                    per eligibility criteria mentioned above, on call
+                </li>
+            </ul>
+            <p class="content-para-3 mb-2">
+                <b>Last Step:</b> You must answer below and complete to receive subsidy.
+            </p>
+            <div class="box-final box-1">
+                <script>
+                    //
+                </script>
+                <p class="mb-2 content-para-4">Do you have Medicare or Medicaid?</p>
+                <button class="btn-common funnel-complete-btn" style="background-color: #3e8e41;" type="button"
+                    onclick="yesClick()">No</button>
+                <button class="btn-common funnel-complete-btn" type="button" onclick="yesClick()"> Yes </button>
+            </div>
+            <div class="box-final box-2 d-none">
+                <script>
+                    //
+                </script>
+                <p class="mb-2 content-para-4">Do you earn less than $50,000?</p>
+                <button class="btn-common" type="button" onclick="noClick()">No</button>
+                <button class=" btn-common" type="button" style="background-color: #3e8e41;"
+                    onclick="noClick()">Yes</button>
+            </div>
+            <div class="box-final box-3 d-none">
+                <p class="mb-2 content-para-4">Congratulations!</p>
+                <p class="m-0 content-other"> You're pre-qualified for a <b>$6,400 subsidy</b> as a Health Credit. </p>
+                <br>
+                <p class="m-0 content-other"> You can use it for your grocery, rent, medical expenses, and so on. </p>
+                <br>
+                <p class="m-0 content-other">
+                    <b>Get on a call to get your $6,400 Health Credit, It only takes 2 minutes.</b>
+                </p>
+                <a href="tel:18778230218" class="call-btn mb-2 ttc-button">Click Now</a>
+                <p class="m-0 content-other2 color-red starting-time-text">
+                    <b>Act fast - this preapproval expires in 4 minutes</b>
+                </p>
+                <p class="m-0 content-other2 color-red d-none end-time-text">
+                    <b>Sorry, this preapproval has expired</b>
+                </p>
+                <p class="m-0 content-other2 color-red timer d-none">
+                    <b>Time left: <span id="timing-sec">0:00</span>
+                    </b>
+                </p>
+            </div>
+            <div class="box-final box-4 d-none">
+                <p class="mb-2 content-para-4">Checking...</p>
+            </div>
+            <p class="mb-2 content-para-3"> Thousands of Americans are checking if they can qualify to receive these
+                health premium credits which can completely cover the cost of their health insurance, dental, vision,
+                treatments, and more. This means more to spend on things like groceries, bills, rent, gas, and other
+                important day-to-day essentials.</p>
+            <p class="mb-2 content-para-3"> 86% of people are eligible for immediate financial assistance through this
+                rarely advertised program, but millions don't realize they qualify and should be receiving these
+                benefits.</p>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="text-wrapper">
+            <p>This website is not affiliated with the Affordable Cares Act program or any other government entity. The
+                information provided on this website is for informational purposes only. It is not intended to be, nor
+                does it constitute any kind of financial advice. Please seek advice from a qualified professional prior
+                to making any financial decisions based on the information provided. This website acts as an independent
+                digital media &amp; advertising publisher. This webpage is formatted as an advertorial. An advertorial
+                is an advertisement that is written in an editorial news format. PLEASE BE AWARE THAT THIS IS AN
+                ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTECTION UPDATE. This website MAY
+                RECEIVE PAID COMPENSATION FOR CLICKS OR SALES PRODUCED FROM THE CONTENT FOUND ON THIS WEBPAGE. This
+                compensation may affect which companies are displayed, the placement of advertisements, and their order
+                of appearance. Any information, discounts, or price quotations listed may not be applicable in your
+                location or if certain requirements are not met. Additionally, our advertisers may have additional
+                qualification requirements.</p>
+            <p>Our goal is to provide exceptional service. One of our agents may reach out to you to discuss your order,
+                ask for feedback, and/or see if you need any assistance with your products, services, or plans, at the
+                phone number you provided regardless of your do-not-call list status. You may opt-out of further contact
+                at any time by simply telling our customer service team that you would no longer like to be contacted.
+                In the event that our team is unable to reach you by phone, they may send you a text message letting you
+                know that we called. Both our text messages and phone calls may be sent or connected utilizing automated
+                software. Carrier charges may apply. You may opt-out of any future contact via text message by replying
+                anytime with "STOP".</p>
+            <p>
+                <span>
+                    <a href="https://www.google.com/" target="_blank">Contact Us</a> |
+                    <a href="https://www.google.com/" target="_blank">Privacy Policy</a> |
+                    <a href="https://www.google.com/" target="_blank">Terms &amp; Conditions</a>
+                </span>
+            </p>
+        </div>
+    </div>
+
+    <!-- Custom JS Script -->
+    <script src="main_script.js"></script>
+
+    <script type="text/javascript">
+        document.getElementById("ctabt").onclick = function () {
+            fbq("track", "Lead");
+        };
+    </script>
+
+</body>
+
+</html>
